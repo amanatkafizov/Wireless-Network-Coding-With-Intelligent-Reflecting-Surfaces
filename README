@@ -1,0 +1,22 @@
+# MATLAB Codes for "Wireless Network Coding With Intelligent Reflecting Surfaces"
+
+This repository contains MATLAB codes associated with the paper titled "Wireless Network Coding With Intelligent Reflecting Surfaces," authored by Amanat Kafizov, Ahmed Elzanaty, and Slim Alouini. 
+The paper was published in IEEE Communication Letters, and you can find the reference below.
+
+## Paper Reference
+Kafizov, Amanat, Ahmed Elzanaty, Lav R. Varshney, and Mohamed-Slim Alouini. "Wireless network coding with intelligent reflecting surfaces." IEEE Communications Letters 25, no. 10 (2021): 3427-3431.
+DOI: 10.1109/LCOMM.2021.3098750
+
+## Introduction
+This repository contains MATLAB codes that reproduce the simulations and experiments presented in the paper. The provided codes can help you replicate the results and further explore the concepts discussed in the paper.
+
+## How to Use
+1. Clone this repository to your local machine.
+2. Open MATLAB and navigate to the cloned repository.
+3. Run the MATLAB scripts and functions provided in the repository. Detailed instructions for running each code are provided in the respective code files.
+
+## Citing This Work
+If you use any of the codes from this repository in your research work, we kindly request that you cite our paper using the reference provided above.
+
+## Contact
+For any questions or inquiries about the MATLAB codes or the paper, please feel free to contact Amanat Kafizov at amanat.kafizov@gmail.com
