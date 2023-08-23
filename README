@@ -11,9 +11,10 @@ DOI: 10.1109/LCOMM.2021.3098750
 This repository contains MATLAB codes that reproduce the simulations and experiments presented in the paper. The provided codes can help you replicate the results and further explore the concepts discussed in the paper.
 
 ## How to Use
-1. Clone this repository to your local machine.
-2. Open MATLAB and navigate to the cloned repository.
-3. Run the MATLAB scripts and functions provided in the repository. Detailed instructions for running each code are provided in the respective code files.
+1. Install CVX on your local machine please see README to Install CVX file.
+2. Download All the matlab files in this repository and add them inside the CVX folder on your local machine.
+2. Open MATLAB and navigate to the CVX folder.
+3. Run the main MATLAB script BER_vs_SNR_D1 and functions provided in the repository. Detailed instructions for running each code are provided in the respective code files.
 
 ## Citing This Work
 If you use any of the codes from this repository in your research work, we kindly request that you cite our paper using the reference provided above.
